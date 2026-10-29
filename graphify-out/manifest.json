@@ -1,0 +1,422 @@
+{
+  "script.js": {
+    "mtime": 1793299947.5881968,
+    "seen": 1793299953.1795974,
+    "ast_hash": "ec22baf67e22035ee3c7b6786a80367d",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1793206980.1272678,
+    "seen": 1793207475.6615043,
+    "ast_hash": "779a7496aaa43bf2e76d3da3ac754544",
+    "semantic_hash": "779a7496aaa43bf2e76d3da3ac754544"
+  },
+  "NEET_Masterbook_Sales_Page_Master_Prompt_Final.md": {
+    "mtime": 1793199314.5371456,
+    "seen": 1793207475.6615043,
+    "ast_hash": "e95994a157aa473fe34c5fdc712aeae2",
+    "semantic_hash": "e95994a157aa473fe34c5fdc712aeae2"
+  },
+  "PROJECT_CONTEXT.md": {
+    "mtime": 1793207383.1342006,
+    "seen": 1793207475.6615043,
+    "ast_hash": "ae7efe5ade42d074c48efb83105bfb0a",
+    "semantic_hash": "ae7efe5ade42d074c48efb83105bfb0a"
+  },
+  "README.md": {
+    "mtime": 1793204518.0265062,
+    "seen": 1793207475.6615043,
+    "ast_hash": "494a48d7a7b4293bcf18cbcc8074bb4f",
+    "semantic_hash": "494a48d7a7b4293bcf18cbcc8074bb4f"
+  },
+  "index.html": {
+    "mtime": 1793203463.2842853,
+    "seen": 1793207475.6615043,
+    "ast_hash": "0837d663a0226de9334943a550030915",
+    "semantic_hash": "0837d663a0226de9334943a550030915"
+  },
+  "product pdf/NEET_2027_Masterbook_Elite_Edition (1).pdf": {
+    "mtime": 1787372866.3764768,
+    "seen": 1793207475.6615043,
+    "ast_hash": "3fec1b7f7b63c681063b8eea31c18458",
+    "semantic_hash": "3fec1b7f7b63c681063b8eea31c18458"
+  },
+  "assets/devices-1000.webp": {
+    "mtime": 1793204769.911371,
+    "seen": 1793207475.6615043,
+    "ast_hash": "bdc41bec55f41a48a5cb53e1615d8cdd",
+    "semantic_hash": "bdc41bec55f41a48a5cb53e1615d8cdd"
+  },
+  "assets/devices-1600.webp": {
+    "mtime": 1793204770.2867768,
+    "seen": 1793207475.6615043,
+    "ast_hash": "30686b8a808403bbf443131fdf5ef35a",
+    "semantic_hash": "30686b8a808403bbf443131fdf5ef35a"
+  },
+  "assets/devices.jpg": {
+    "mtime": 1793204769.73548,
+    "seen": 1793207475.6615043,
+    "ast_hash": "0e77b4ed814cd3e2aa1c761b84ccddf1",
+    "semantic_hash": "0e77b4ed814cd3e2aa1c761b84ccddf1"
+  },
+  "assets/favicon-180.png": {
+    "mtime": 1793204743.716278,
+    "seen": 1793207475.6615043,
+    "ast_hash": "5e2ef58c018dc8cd9a8cc709e880adec",
+    "semantic_hash": "5e2ef58c018dc8cd9a8cc709e880adec"
+  },
+  "assets/favicon-192.png": {
+    "mtime": 1793204743.6935823,
+    "seen": 1793207475.6615043,
+    "ast_hash": "03979109db1e006184918420a145ce73",
+    "semantic_hash": "03979109db1e006184918420a145ce73"
+  },
+  "assets/favicon-32.png": {
+    "mtime": 1793204743.7202973,
+    "seen": 1793207475.6615043,
+    "ast_hash": "c4f5286fb02c9e0c645a32eb6d8146ad",
+    "semantic_hash": "c4f5286fb02c9e0c645a32eb6d8146ad"
+  },
+  "assets/favicon-512.png": {
+    "mtime": 1793204743.667585,
+    "seen": 1793207475.6615043,
+    "ast_hash": "04185976a8b508ac7c6276db602ebd62",
+    "semantic_hash": "04185976a8b508ac7c6276db602ebd62"
+  },
+  "assets/gallery/banner-01-complete-system-1600.webp": {
+    "mtime": 1793204763.626361,
+    "seen": 1793207475.6615043,
+    "ast_hash": "64c11c82d6fb7c7d43e1710290436dbb",
+    "semantic_hash": "64c11c82d6fb7c7d43e1710290436dbb"
+  },
+  "assets/gallery/banner-01-complete-system-960.webp": {
+    "mtime": 1793204763.2046535,
+    "seen": 1793207475.6615043,
+    "ast_hash": "43fa78bd0bf74ac5dcbdc5225c38f468",
+    "semantic_hash": "43fa78bd0bf74ac5dcbdc5225c38f468"
+  },
+  "assets/gallery/banner-01-complete-system.jpg": {
+    "mtime": 1793204762.9269316,
+    "seen": 1793207475.6615043,
+    "ast_hash": "b5f8a9da35ce3fcae6555ca089f2890d",
+    "semantic_hash": "b5f8a9da35ce3fcae6555ca089f2890d"
+  },
+  "assets/gallery/banner-02-syllabus-map-1600.webp": {
+    "mtime": 1793204764.3753743,
+    "seen": 1793207475.6615043,
+    "ast_hash": "3661edbb25ec80eee1e17a9e477cbf34",
+    "semantic_hash": "3661edbb25ec80eee1e17a9e477cbf34"
+  },
+  "assets/gallery/banner-02-syllabus-map-960.webp": {
+    "mtime": 1793204763.9380913,
+    "seen": 1793207475.6615043,
+    "ast_hash": "4218e509999a1beceb6398dd5cd5a68d",
+    "semantic_hash": "4218e509999a1beceb6398dd5cd5a68d"
+  },
+  "assets/gallery/banner-02-syllabus-map.jpg": {
+    "mtime": 1793204763.6931257,
+    "seen": 1793207475.6615043,
+    "ast_hash": "3bf3547a323a4770ed7c587767c7286a",
+    "semantic_hash": "3bf3547a323a4770ed7c587767c7286a"
+  },
+  "assets/gallery/banner-03-planning-workflow-1600.webp": {
+    "mtime": 1793204764.9904284,
+    "seen": 1793207475.6615043,
+    "ast_hash": "9fa8b05de68004a5d44ab173f40fadf8",
+    "semantic_hash": "9fa8b05de68004a5d44ab173f40fadf8"
+  },
+  "assets/gallery/banner-03-planning-workflow-960.webp": {
+    "mtime": 1793204764.614381,
+    "seen": 1793207475.6615043,
+    "ast_hash": "d4b21295039305bd2bc49cc1433fbc28",
+    "semantic_hash": "d4b21295039305bd2bc49cc1433fbc28"
+  },
+  "assets/gallery/banner-03-planning-workflow.jpg": {
+    "mtime": 1793204764.4444096,
+    "seen": 1793207475.6615043,
+    "ast_hash": "8ba2a6258e9a9828e54e06ed611b235d",
+    "semantic_hash": "8ba2a6258e9a9828e54e06ed611b235d"
+  },
+  "assets/gallery/banner-04-revision-engine-1600.webp": {
+    "mtime": 1793204765.642048,
+    "seen": 1793207475.6615043,
+    "ast_hash": "b8166644613669dcbf2da71372d5996c",
+    "semantic_hash": "b8166644613669dcbf2da71372d5996c"
+  },
+  "assets/gallery/banner-04-revision-engine-960.webp": {
+    "mtime": 1793204765.2334552,
+    "seen": 1793207475.6615043,
+    "ast_hash": "e8753f8914adc036caed7929c3f9a7e3",
+    "semantic_hash": "e8753f8914adc036caed7929c3f9a7e3"
+  },
+  "assets/gallery/banner-04-revision-engine.jpg": {
+    "mtime": 1793204765.052569,
+    "seen": 1793207475.6615043,
+    "ast_hash": "dc7298bbc9791536af06f211ac4cbe5d",
+    "semantic_hash": "dc7298bbc9791536af06f211ac4cbe5d"
+  },
+  "assets/gallery/banner-05-test-analysis-1600.webp": {
+    "mtime": 1793204766.26148,
+    "seen": 1793207475.6615043,
+    "ast_hash": "ef985ef854b2af7f260cc2f17dba513c",
+    "semantic_hash": "ef985ef854b2af7f260cc2f17dba513c"
+  },
+  "assets/gallery/banner-05-test-analysis-960.webp": {
+    "mtime": 1793204765.8695421,
+    "seen": 1793207475.6615043,
+    "ast_hash": "96c49408bf9d83a5ee2654dda44bf20e",
+    "semantic_hash": "96c49408bf9d83a5ee2654dda44bf20e"
+  },
+  "assets/gallery/banner-05-test-analysis.jpg": {
+    "mtime": 1793204765.705963,
+    "seen": 1793207475.6615043,
+    "ast_hash": "b6550693f3c3769cc575c2960351b8af",
+    "semantic_hash": "b6550693f3c3769cc575c2960351b8af"
+  },
+  "assets/gallery/banner-06-backlog-rescue-1600.webp": {
+    "mtime": 1793204766.829,
+    "seen": 1793207475.6615043,
+    "ast_hash": "736ca3b619d6d7926538cc6ef797ad78",
+    "semantic_hash": "736ca3b619d6d7926538cc6ef797ad78"
+  },
+  "assets/gallery/banner-06-backlog-rescue-960.webp": {
+    "mtime": 1793204766.4804895,
+    "seen": 1793207475.6615043,
+    "ast_hash": "79af5603329929d2083ca91970101bc7",
+    "semantic_hash": "79af5603329929d2083ca91970101bc7"
+  },
+  "assets/gallery/banner-06-backlog-rescue.jpg": {
+    "mtime": 1793204766.328501,
+    "seen": 1793207475.6615043,
+    "ast_hash": "0994e0dea9332b169d05e08c43dc5bf4",
+    "semantic_hash": "0994e0dea9332b169d05e08c43dc5bf4"
+  },
+  "assets/gallery/banner-07-product-format-1600.webp": {
+    "mtime": 1793204767.576055,
+    "seen": 1793207475.6615043,
+    "ast_hash": "6fe6f0fb43718395ea3a69aadec19223",
+    "semantic_hash": "6fe6f0fb43718395ea3a69aadec19223"
+  },
+  "assets/gallery/banner-07-product-format-960.webp": {
+    "mtime": 1793204767.0993953,
+    "seen": 1793207475.6615043,
+    "ast_hash": "c36901684b817f9d7d1f5984c8f1bde1",
+    "semantic_hash": "c36901684b817f9d7d1f5984c8f1bde1"
+  },
+  "assets/gallery/banner-07-product-format.jpg": {
+    "mtime": 1793204766.8995504,
+    "seen": 1793207475.6615043,
+    "ast_hash": "e9e2b61f39a8b1a6ae1a9004c4746314",
+    "semantic_hash": "e9e2b61f39a8b1a6ae1a9004c4746314"
+  },
+  "assets/grain-220.webp": {
+    "mtime": 1793200019.7183642,
+    "seen": 1793207475.6615043,
+    "ast_hash": "a69efb04e66be9819277b98966b430ce",
+    "semantic_hash": "a69efb04e66be9819277b98966b430ce"
+  },
+  "assets/grain-320.webp": {
+    "mtime": 1793200019.8118732,
+    "seen": 1793207475.6615043,
+    "ast_hash": "bbf3f3bfd4616b693754c9f80c51689f",
+    "semantic_hash": "bbf3f3bfd4616b693754c9f80c51689f"
+  },
+  "assets/grain.png": {
+    "mtime": 1793200019.8609688,
+    "seen": 1793207475.6615043,
+    "ast_hash": "ca555f9a02325313c826b0ccf521ef7c",
+    "semantic_hash": "ca555f9a02325313c826b0ccf521ef7c"
+  },
+  "assets/hand-holding-1000.webp": {
+    "mtime": 1793204769.6745703,
+    "seen": 1793207475.6615043,
+    "ast_hash": "30d47a8450cb4a4a1e3132f690ed21db",
+    "semantic_hash": "30d47a8450cb4a4a1e3132f690ed21db"
+  },
+  "assets/hand-holding-720.webp": {
+    "mtime": 1793204769.3475993,
+    "seen": 1793207475.6615043,
+    "ast_hash": "f783fdd52923178f7c3333431c799b17",
+    "semantic_hash": "f783fdd52923178f7c3333431c799b17"
+  },
+  "assets/hand-holding.jpg": {
+    "mtime": 1793204769.1460617,
+    "seen": 1793207475.6615043,
+    "ast_hash": "a22be08ec811922202dc26be0249259d",
+    "semantic_hash": "a22be08ec811922202dc26be0249259d"
+  },
+  "assets/lifestyle-desk-1000.webp": {
+    "mtime": 1793204769.0864758,
+    "seen": 1793207475.6615043,
+    "ast_hash": "974451a20adec123c6b23018e4aebab0",
+    "semantic_hash": "974451a20adec123c6b23018e4aebab0"
+  },
+  "assets/lifestyle-desk-720.webp": {
+    "mtime": 1793204768.6935248,
+    "seen": 1793207475.6615043,
+    "ast_hash": "6aac8d9a7a79664dc60c1edf93bb6561",
+    "semantic_hash": "6aac8d9a7a79664dc60c1edf93bb6561"
+  },
+  "assets/lifestyle-desk.jpg": {
+    "mtime": 1793204768.3655865,
+    "seen": 1793207475.6615043,
+    "ast_hash": "a05fffbd241d3c27ada32d70e415ef8d",
+    "semantic_hash": "a05fffbd241d3c27ada32d70e415ef8d"
+  },
+  "assets/og-image.jpg": {
+    "mtime": 1793204770.3681178,
+    "seen": 1793207475.6615043,
+    "ast_hash": "2abace613775a4ed86a537d541bc3ae8",
+    "semantic_hash": "2abace613775a4ed86a537d541bc3ae8"
+  },
+  "assets/product-mockup-dark-700.webp": {
+    "mtime": 1793199988.5788615,
+    "seen": 1793207475.6615043,
+    "ast_hash": "e90cc002a8184548e0e533c4d53ed180",
+    "semantic_hash": "e90cc002a8184548e0e533c4d53ed180"
+  },
+  "assets/product-mockup-dark-896.webp": {
+    "mtime": 1793199988.8212745,
+    "seen": 1793207475.6615043,
+    "ast_hash": "8205f8b3c1f78c7985ff909315ee3481",
+    "semantic_hash": "8205f8b3c1f78c7985ff909315ee3481"
+  },
+  "assets/product-mockup-dark.jpg": {
+    "mtime": 1793199988.8393135,
+    "seen": 1793207475.6615043,
+    "ast_hash": "fc804c453a33154200cd29b0503b83f8",
+    "semantic_hash": "fc804c453a33154200cd29b0503b83f8"
+  },
+  "assets/product-mockup-sm.webp": {
+    "mtime": 1793199988.3826535,
+    "seen": 1793207475.6615043,
+    "ast_hash": "d74b9c95fb7b2898e7d63b9fac62c6f3",
+    "semantic_hash": "d74b9c95fb7b2898e7d63b9fac62c6f3"
+  },
+  "assets/product-mockup.png": {
+    "mtime": 1793199975.674084,
+    "seen": 1793207475.6615043,
+    "ast_hash": "a87ae7cab7ba1289287e9592770a0ec7",
+    "semantic_hash": "a87ae7cab7ba1289287e9592770a0ec7"
+  },
+  "assets/product-mockup.webp": {
+    "mtime": 1793199982.662317,
+    "seen": 1793207475.6615043,
+    "ast_hash": "60db8ee6c2744bafca42776b854495dd",
+    "semantic_hash": "60db8ee6c2744bafca42776b854495dd"
+  },
+  "assets/study-night-1100.webp": {
+    "mtime": 1793204768.3115928,
+    "seen": 1793207475.6615043,
+    "ast_hash": "7dffdaf514758ca4ccf203dce2c1231a",
+    "semantic_hash": "7dffdaf514758ca4ccf203dce2c1231a"
+  },
+  "assets/study-night-720.webp": {
+    "mtime": 1793204767.8621159,
+    "seen": 1793207475.6615043,
+    "ast_hash": "9d3a64d290240a58984748ce56ac0fea",
+    "semantic_hash": "9d3a64d290240a58984748ce56ac0fea"
+  },
+  "assets/study-night.jpg": {
+    "mtime": 1793204767.6445618,
+    "seen": 1793207475.6615043,
+    "ast_hash": "e9c106a81092c4d34f119b1ef3142305",
+    "semantic_hash": "e9c106a81092c4d34f119b1ef3142305"
+  },
+  "gallery images/banner-01-complete-system.jpg": {
+    "mtime": 1793198436.597342,
+    "seen": 1793207475.6615043,
+    "ast_hash": "7b612198e9e2d6be4766b31ac6a600dc",
+    "semantic_hash": "7b612198e9e2d6be4766b31ac6a600dc"
+  },
+  "gallery images/banner-02-syllabus-map.jpg": {
+    "mtime": 1793198440.7286062,
+    "seen": 1793207475.6615043,
+    "ast_hash": "f22e9ed96653d8cdce1e202f1f4aad82",
+    "semantic_hash": "f22e9ed96653d8cdce1e202f1f4aad82"
+  },
+  "gallery images/banner-03-planning-workflow.jpg": {
+    "mtime": 1793198451.4521143,
+    "seen": 1793207475.6615043,
+    "ast_hash": "3955318a635b1f434590f9f954bb7f19",
+    "semantic_hash": "3955318a635b1f434590f9f954bb7f19"
+  },
+  "gallery images/banner-04-revision-engine.jpg": {
+    "mtime": 1793198459.672267,
+    "seen": 1793207475.6615043,
+    "ast_hash": "7485f1d8c9a2534cda7ffbbccfe418da",
+    "semantic_hash": "7485f1d8c9a2534cda7ffbbccfe418da"
+  },
+  "gallery images/banner-05-test-analysis.jpg": {
+    "mtime": 1793198457.0592327,
+    "seen": 1793207475.6615043,
+    "ast_hash": "919c3d6bf4f09a0bab475c535b4f4f91",
+    "semantic_hash": "919c3d6bf4f09a0bab475c535b4f4f91"
+  },
+  "gallery images/banner-06-backlog-rescue.jpg": {
+    "mtime": 1793198442.7441804,
+    "seen": 1793207475.6615043,
+    "ast_hash": "ed2e99ad7e7bdf29ab2e97908ae0b381",
+    "semantic_hash": "ed2e99ad7e7bdf29ab2e97908ae0b381"
+  },
+  "gallery images/banner-07-product-format.jpg": {
+    "mtime": 1793198448.1899216,
+    "seen": 1793207475.6615043,
+    "ast_hash": "bcb0a6045503074247e817cd9f7af220",
+    "semantic_hash": "bcb0a6045503074247e817cd9f7af220"
+  },
+  "product image/product-mockup-dark.png": {
+    "mtime": 1787374081.8392782,
+    "seen": 1793207475.6615043,
+    "ast_hash": "2fd1a3ae66c3b8540c1515e8ecd91664",
+    "semantic_hash": "2fd1a3ae66c3b8540c1515e8ecd91664"
+  },
+  "product image/product-mockup.png": {
+    "mtime": 1793199195.435795,
+    "seen": 1793207475.6615043,
+    "ast_hash": "9d6aca644f1a7b94e8aed47652462d2d",
+    "semantic_hash": "9d6aca644f1a7b94e8aed47652462d2d"
+  },
+  "required images/devices.jpg": {
+    "mtime": 1793195390.0199642,
+    "seen": 1793207475.6615043,
+    "ast_hash": "376bc60a1f198cfff30c2f91f93e51ef",
+    "semantic_hash": "376bc60a1f198cfff30c2f91f93e51ef"
+  },
+  "required images/favicon.jpg": {
+    "mtime": 1793195387.3029943,
+    "seen": 1793207475.6615043,
+    "ast_hash": "8d72b09d0639e63dd011ab6b1b427029",
+    "semantic_hash": "8d72b09d0639e63dd011ab6b1b427029"
+  },
+  "required images/grain.png": {
+    "mtime": 1793195339.5371544,
+    "seen": 1793207475.6615043,
+    "ast_hash": "48b67dddd5de63b3ea59f33827752a02",
+    "semantic_hash": "48b67dddd5de63b3ea59f33827752a02"
+  },
+  "required images/hand-holding.jpg": {
+    "mtime": 1793195391.1799579,
+    "seen": 1793207475.6615043,
+    "ast_hash": "2e6b3e4f144c177a673c2990bc0da0c6",
+    "semantic_hash": "2e6b3e4f144c177a673c2990bc0da0c6"
+  },
+  "required images/lifestyle-desk.jpg": {
+    "mtime": 1793195396.5007553,
+    "seen": 1793207475.6615043,
+    "ast_hash": "35d6873094e7835ab39a0d92a1f7e0ba",
+    "semantic_hash": "35d6873094e7835ab39a0d92a1f7e0ba"
+  },
+  "required images/og-image.jpg": {
+    "mtime": 1793195402.2806304,
+    "seen": 1793207475.6615043,
+    "ast_hash": "cbcd267aebc5a39159ea598270ef6d7f",
+    "semantic_hash": "cbcd267aebc5a39159ea598270ef6d7f"
+  },
+  "required images/study-night.jpg": {
+    "mtime": 1793195394.0888672,
+    "seen": 1793207475.6615043,
+    "ast_hash": "f87da5875f462f121b951be3f034f9e3",
+    "semantic_hash": "f87da5875f462f121b951be3f034f9e3"
+  }
+}

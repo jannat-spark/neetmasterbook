@@ -1,0 +1,1446 @@
+{
+  "nodes": [
+    {
+      "id": "script",
+      "label": "script.js",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "script_showtoast",
+      "label": "showToast()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L137",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_track",
+      "label": "track()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L148",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_settext",
+      "label": "setText()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L157",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_loadscript",
+      "label": "loadScript()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L163",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupanalytics",
+      "label": "setupAnalytics()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L174",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_applycreator",
+      "label": "applyCreator()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L199",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_renderpriceandseats",
+      "label": "renderPriceAndSeats()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L204",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_starmarkup",
+      "label": "starMarkup()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L230",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_createreviewcard",
+      "label": "createReviewCard()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L236",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_renderreviews",
+      "label": "renderReviews()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L251",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_renderreviews_updatereviewstate",
+      "label": "updateReviewState()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L286",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupfaq",
+      "label": "setupFaq()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L330",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_opendialog",
+      "label": "openDialog()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L367",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_closedialog",
+      "label": "closeDialog()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L377",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setuplightbox",
+      "label": "setupLightbox()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L387",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setuppolicydialog",
+      "label": "setupPolicyDialog()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L452",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupsupportlinks",
+      "label": "setupSupportLinks()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L487",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupcheckout",
+      "label": "setupCheckout()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L514",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupheader",
+      "label": "setupHeader()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L568",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupheader_updateheader",
+      "label": "updateHeader()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L574",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupmobilecta",
+      "label": "setupMobileCta()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L588",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupmobilecta_updatecta",
+      "label": "updateCta()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L600",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupmobilecta_requestupdate",
+      "label": "requestUpdate()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L609",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupreveals",
+      "label": "setupReveals()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L642",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupactshowcase",
+      "label": "setupActShowcase()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L707",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupactshowcase_setactive",
+      "label": "setActive()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L722",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupactshowcase_updateactiveact",
+      "label": "updateActiveAct()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L742",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupactshowcase_requestactiveupdate",
+      "label": "requestActiveUpdate()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L755",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupactshowcase_enableshowcase",
+      "label": "enableShowcase()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L761",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupactshowcase_disableshowcase",
+      "label": "disableShowcase()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L782",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupactshowcase_syncshowcase",
+      "label": "syncShowcase()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L804",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupherotilt",
+      "label": "setupHeroTilt()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L821",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupherotilt_settilt",
+      "label": "setTilt()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L829",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupherotilt_reset",
+      "label": "reset()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L839",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupherotilt_updatescrolltilt",
+      "label": "updateScrollTilt()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L863",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupherotilt_requestscrolltilt",
+      "label": "requestScrollTilt()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L878",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupmobileactmotion",
+      "label": "setupMobileActMotion()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L896",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupmobileactmotion_sync",
+      "label": "sync()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L920",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupcounters",
+      "label": "setupCounters()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L941",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupcounters_tick",
+      "label": "tick()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L961",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_setupbookreveal",
+      "label": "setupBookReveal()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L978",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "script_init",
+      "label": "init()",
+      "file_type": "code",
+      "source_file": "script.js",
+      "source_location": "L993",
+      "_callable": true,
+      "_origin": "ast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "script",
+      "target": "script_showtoast",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L137",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_track",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L148",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_settext",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L157",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_loadscript",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L163",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupanalytics",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L174",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_applycreator",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L199",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_renderpriceandseats",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L204",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_starmarkup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L230",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_createreviewcard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L236",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_renderreviews",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L251",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_renderreviews",
+      "target": "script_renderreviews_updatereviewstate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L286",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupfaq",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L330",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_opendialog",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L367",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_closedialog",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L377",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setuplightbox",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L387",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setuppolicydialog",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L452",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupsupportlinks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L487",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupcheckout",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L514",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupheader",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L568",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupheader",
+      "target": "script_setupheader_updateheader",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L574",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupmobilecta",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L588",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupmobilecta",
+      "target": "script_setupmobilecta_updatecta",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L600",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupmobilecta",
+      "target": "script_setupmobilecta_requestupdate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L609",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupreveals",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L642",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupactshowcase",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L707",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase",
+      "target": "script_setupactshowcase_setactive",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L722",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase",
+      "target": "script_setupactshowcase_updateactiveact",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L742",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase",
+      "target": "script_setupactshowcase_requestactiveupdate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L755",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase",
+      "target": "script_setupactshowcase_enableshowcase",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L761",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase",
+      "target": "script_setupactshowcase_disableshowcase",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L782",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase",
+      "target": "script_setupactshowcase_syncshowcase",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L804",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupherotilt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L821",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupherotilt",
+      "target": "script_setupherotilt_settilt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L829",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupherotilt",
+      "target": "script_setupherotilt_reset",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L839",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupherotilt",
+      "target": "script_setupherotilt_updatescrolltilt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L863",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupherotilt",
+      "target": "script_setupherotilt_requestscrolltilt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L878",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupmobileactmotion",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L896",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupmobileactmotion",
+      "target": "script_setupmobileactmotion_sync",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L920",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupcounters",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L941",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupcounters",
+      "target": "script_setupcounters_tick",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L961",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_setupbookreveal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L978",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_init",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L993",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_init",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L1014",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script",
+      "target": "script_init",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1016",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupanalytics",
+      "target": "script_loadscript",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L185",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_applycreator",
+      "target": "script_settext",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L200",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_renderpriceandseats",
+      "target": "script_settext",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L210",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_createreviewcard",
+      "target": "script_starmarkup",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L241",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_renderreviews",
+      "target": "script_createreviewcard",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L257",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_renderreviews",
+      "target": "script_renderreviews_updatereviewstate",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L312",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setuplightbox",
+      "target": "script_opendialog",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L408",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setuplightbox",
+      "target": "script_closedialog",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L411",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setuppolicydialog",
+      "target": "script_opendialog",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L472",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setuppolicydialog",
+      "target": "script_closedialog",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L475",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupsupportlinks",
+      "target": "script_showtoast",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L508",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupcheckout",
+      "target": "script_track",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L518",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupcheckout",
+      "target": "script_showtoast",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L551",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupheader",
+      "target": "script_setupheader_updateheader",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L582",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupheader",
+      "target": "script_setupheader_updateheader",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L585",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupmobilecta",
+      "target": "script_setupmobilecta_requestupdate",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L624",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupmobilecta",
+      "target": "script_setupmobilecta_updatecta",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L639",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupmobilecta_requestupdate",
+      "target": "script_setupmobilecta_updatecta",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L612",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase",
+      "target": "script_setupactshowcase_syncshowcase",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L812",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase_updateactiveact",
+      "target": "script_setupactshowcase_setactive",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L751",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase_requestactiveupdate",
+      "target": "script_setupactshowcase_updateactiveact",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L758",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase_enableshowcase",
+      "target": "script_setupactshowcase_setactive",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L776",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase_enableshowcase",
+      "target": "script_setupactshowcase_requestactiveupdate",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L777",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase_enableshowcase",
+      "target": "script_setupactshowcase_requestactiveupdate",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L779",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase_disableshowcase",
+      "target": "script_setupactshowcase_requestactiveupdate",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L786",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase_syncshowcase",
+      "target": "script_setupactshowcase_enableshowcase",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L806",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupactshowcase_syncshowcase",
+      "target": "script_setupactshowcase_disableshowcase",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L808",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupherotilt",
+      "target": "script_setupherotilt_settilt",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L851",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupherotilt",
+      "target": "script_setupherotilt_reset",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L855",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupherotilt",
+      "target": "script_setupherotilt_requestscrolltilt",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L884",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupherotilt",
+      "target": "script_setupherotilt_updatescrolltilt",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L893",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupherotilt_reset",
+      "target": "script_setupherotilt_settilt",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L841",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupherotilt_updatescrolltilt",
+      "target": "script_setupherotilt_settilt",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L866",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupherotilt_requestscrolltilt",
+      "target": "script_setupherotilt_updatescrolltilt",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L881",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupmobileactmotion",
+      "target": "script_setupmobileactmotion_sync",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L933",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupmobileactmotion",
+      "target": "script_setupmobileactmotion_sync",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L938",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_setupcounters",
+      "target": "script_setupcounters_tick",
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "script.js",
+      "source_location": "L970",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupanalytics",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L994",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_applycreator",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L995",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_renderpriceandseats",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L996",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_renderreviews",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L997",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupsupportlinks",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L998",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupcheckout",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L999",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupfaq",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1000",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setuplightbox",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1001",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setuppolicydialog",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1002",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupheader",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1003",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupmobilecta",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1004",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupreveals",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1005",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupactshowcase",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1006",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupmobileactmotion",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1007",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupherotilt",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1008",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupcounters",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1009",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "script_init",
+      "target": "script_setupbookreveal",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "script.js",
+      "source_location": "L1010",
+      "weight": 1.0,
+      "_origin": "ast"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "failed_sources": [],
+  "extracted_sources": [
+    "C:\\Users\\admin\\Desktop\\digi product page\\script.js"
+  ]
+}

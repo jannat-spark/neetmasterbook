@@ -1,0 +1,23 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local tooling and dependencies
+node_modules/
+.opencode/node_modules/
+.wrangler/
+.vercel/
+.netlify/
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+
+# Local source material (NOT part of the deployed site)
+# The paid PDF must never be published to GitHub or Cloudflare.
+/product pdf/
+/product image/
+/gallery images/
+/required images/

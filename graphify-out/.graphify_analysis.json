@@ -1,0 +1,337 @@
+{
+  "communities": {
+    "0": [
+      "assets_gallery_group",
+      "image_assets_gallery_banner_01_complete_system_1600_webp",
+      "image_assets_gallery_banner_01_complete_system_960_webp",
+      "image_assets_gallery_banner_01_complete_system_jpg",
+      "image_assets_gallery_banner_02_syllabus_map_1600_webp",
+      "image_assets_gallery_banner_02_syllabus_map_960_webp",
+      "image_assets_gallery_banner_02_syllabus_map_jpg",
+      "image_assets_gallery_banner_03_planning_workflow_1600_webp",
+      "image_assets_gallery_banner_03_planning_workflow_960_webp",
+      "image_assets_gallery_banner_03_planning_workflow_jpg",
+      "image_assets_gallery_banner_04_revision_engine_1600_webp",
+      "image_assets_gallery_banner_04_revision_engine_960_webp",
+      "image_assets_gallery_banner_04_revision_engine_jpg",
+      "image_assets_gallery_banner_05_test_analysis_1600_webp",
+      "image_assets_gallery_banner_05_test_analysis_960_webp",
+      "image_assets_gallery_banner_05_test_analysis_jpg",
+      "image_assets_gallery_banner_06_backlog_rescue_1600_webp",
+      "image_assets_gallery_banner_06_backlog_rescue_960_webp",
+      "image_assets_gallery_banner_06_backlog_rescue_jpg",
+      "image_assets_gallery_banner_07_product_format_1600_webp",
+      "image_assets_gallery_banner_07_product_format_960_webp",
+      "image_assets_gallery_banner_07_product_format_jpg",
+      "index_acts_section",
+      "index_audience_section",
+      "index_faq_section",
+      "index_final_cta",
+      "index_founder_section",
+      "index_gallery_section",
+      "index_html_page",
+      "index_identity_section",
+      "index_method_section",
+      "index_price_section",
+      "index_problem_section",
+      "index_reviews_section",
+      "index_trust_section",
+      "page_section_map",
+      "script_js_app"
+    ],
+    "1": [
+      "accessibility_dialogs",
+      "creator_note",
+      "faq_content",
+      "gallery_lightbox",
+      "reviews_social_proof",
+      "script",
+      "script_applycreator",
+      "script_closedialog",
+      "script_createreviewcard",
+      "script_init",
+      "script_loadscript",
+      "script_opendialog",
+      "script_renderpriceandseats",
+      "script_renderreviews",
+      "script_renderreviews_updatereviewstate",
+      "script_settext",
+      "script_setupanalytics",
+      "script_setupbookreveal",
+      "script_setupcheckout",
+      "script_setupcounters",
+      "script_setupcounters_tick",
+      "script_setupfaq",
+      "script_setupheader",
+      "script_setupheader_updateheader",
+      "script_setuplightbox",
+      "script_setupmobilecta",
+      "script_setupmobilecta_requestupdate",
+      "script_setupmobilecta_updatecta",
+      "script_setuppolicydialog",
+      "script_setupreveals",
+      "script_setupsupportlinks",
+      "script_showtoast",
+      "script_starmarkup",
+      "script_track"
+    ],
+    "2": [
+      "assets_group",
+      "css_mojibake_fix",
+      "image_assets_devices_1000_webp",
+      "image_assets_devices_1600_webp",
+      "image_assets_devices_jpg",
+      "image_assets_favicon_180_png",
+      "image_assets_favicon_192_png",
+      "image_assets_favicon_32_png",
+      "image_assets_favicon_512_png",
+      "image_assets_grain_220_webp",
+      "image_assets_grain_320_webp",
+      "image_assets_grain_png",
+      "image_assets_hand_holding_1000_webp",
+      "image_assets_hand_holding_720_webp",
+      "image_assets_hand_holding_jpg",
+      "image_assets_lifestyle_desk_1000_webp",
+      "image_assets_lifestyle_desk_720_webp",
+      "image_assets_lifestyle_desk_jpg",
+      "image_assets_product_mockup_dark_700_webp",
+      "image_assets_product_mockup_dark_896_webp",
+      "image_assets_product_mockup_dark_jpg",
+      "image_assets_product_mockup_png",
+      "image_assets_product_mockup_sm_webp",
+      "image_assets_product_mockup_webp",
+      "image_assets_study_night_1100_webp",
+      "image_assets_study_night_720_webp",
+      "image_assets_study_night_jpg",
+      "image_product_image_product_mockup_dark_png",
+      "image_product_image_product_mockup_png",
+      "index_hero_section",
+      "product_image_group",
+      "responsive_breakpoints",
+      "styles_css_stylesheet",
+      "vertical_method_timeline"
+    ],
+    "3": [
+      "act_1_know_the_game",
+      "act_2_plan_the_year",
+      "act_3_lock_it_in_memory",
+      "act_4_test_analyse_fix",
+      "act_5_final_stretch",
+      "agents_doc",
+      "asset_inventory",
+      "checkout_flow",
+      "deployment_checklist",
+      "five_act_system",
+      "graphify_context_system",
+      "image_watermark_treatment",
+      "neet_masterbook_product",
+      "neet_masterbook_sales_page_master_prompt_final_doc",
+      "pricing_offer",
+      "product_pdf_neet_2027_masterbook_elite_edition_1_paper",
+      "project_context_doc",
+      "qa_and_verification",
+      "readme_doc",
+      "support_channels"
+    ],
+    "4": [
+      "mobile_act_motion",
+      "mobile_hero_tilt",
+      "mobile_motion_system",
+      "reduced_motion_policy",
+      "script_setupherotilt",
+      "script_setupherotilt_requestscrolltilt",
+      "script_setupherotilt_reset",
+      "script_setupherotilt_settilt",
+      "script_setupherotilt_updatescrolltilt",
+      "script_setupmobileactmotion",
+      "script_setupmobileactmotion_sync"
+    ],
+    "5": [
+      "image_assets_og_image_jpg",
+      "image_required_images_devices_jpg",
+      "image_required_images_favicon_jpg",
+      "image_required_images_grain_png",
+      "image_required_images_hand_holding_jpg",
+      "image_required_images_lifestyle_desk_jpg",
+      "image_required_images_og_image_jpg",
+      "image_required_images_study_night_jpg",
+      "required_images_group",
+      "social_metadata_jsonld"
+    ],
+    "6": [
+      "gallery_images_group",
+      "image_gallery_images_banner_01_complete_system_jpg",
+      "image_gallery_images_banner_02_syllabus_map_jpg",
+      "image_gallery_images_banner_03_planning_workflow_jpg",
+      "image_gallery_images_banner_04_revision_engine_jpg",
+      "image_gallery_images_banner_05_test_analysis_jpg",
+      "image_gallery_images_banner_06_backlog_rescue_jpg",
+      "image_gallery_images_banner_07_product_format_jpg"
+    ],
+    "7": [
+      "script_setupactshowcase",
+      "script_setupactshowcase_disableshowcase",
+      "script_setupactshowcase_enableshowcase",
+      "script_setupactshowcase_requestactiveupdate",
+      "script_setupactshowcase_setactive",
+      "script_setupactshowcase_syncshowcase",
+      "script_setupactshowcase_updateactiveact"
+    ]
+  },
+  "cohesion": {
+    "0": 0.13363363363363365,
+    "1": 0.10873440285204991,
+    "2": 0.07130124777183601,
+    "3": 0.1368421052631579,
+    "4": 0.2545454545454545,
+    "5": 0.2,
+    "6": 0.25,
+    "7": 0.6190476190476191
+  },
+  "gods": [
+    {
+      "id": "index_html_page",
+      "label": "NEET Masterbook Sales Page (index.html)",
+      "degree": 56
+    },
+    {
+      "id": "index_gallery_section",
+      "label": "See the System Gallery",
+      "degree": 30
+    },
+    {
+      "id": "assets_group",
+      "label": "Production Asset Library",
+      "degree": 27
+    },
+    {
+      "id": "assets_gallery_group",
+      "label": "Production Gallery Images",
+      "degree": 22
+    },
+    {
+      "id": "script_init",
+      "label": "init()",
+      "degree": 18
+    },
+    {
+      "id": "page_section_map",
+      "label": "Sales Page Section Architecture",
+      "degree": 15
+    },
+    {
+      "id": "project_context_doc",
+      "label": "Complete Project Context & Handoff",
+      "degree": 11
+    },
+    {
+      "id": "index_hero_section",
+      "label": "Hero — From Zero to 650+",
+      "degree": 10
+    },
+    {
+      "id": "script_setupherotilt",
+      "label": "setupHeroTilt()",
+      "degree": 9
+    },
+    {
+      "id": "script_setupactshowcase",
+      "label": "setupActShowcase()",
+      "degree": 8
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Complete Image and PDF Asset Inventory",
+      "target": "NEET 2027 Masterbook — 28-page Elite Edition PDF",
+      "source_files": [
+        "PROJECT_CONTEXT.md",
+        "product pdf/NEET_2027_Masterbook_Elite_Edition (1).pdf"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "crosses file types (paper ↔ doc); connects across different repos/directories; peripheral node `NEET 2027 Masterbook — 28-page Elite Edition PDF` unexpectedly reaches hub `Complete Image and PDF Asset Inventory`"
+    },
+    {
+      "source": "Complete Project Context & Handoff",
+      "target": "NEET 2027 Masterbook — Elite Edition",
+      "source_files": [
+        "PROJECT_CONTEXT.md",
+        "product pdf/NEET_2027_Masterbook_Elite_Edition (1).pdf"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "crosses file types (doc ↔ paper); connects across different repos/directories"
+    },
+    {
+      "source": "Original Sales Page Master Prompt",
+      "target": "NEET 2027 Masterbook — Elite Edition",
+      "source_files": [
+        "NEET_Masterbook_Sales_Page_Master_Prompt_Final.md",
+        "product pdf/NEET_2027_Masterbook_Elite_Edition (1).pdf"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "crosses file types (doc ↔ paper); connects across different repos/directories"
+    },
+    {
+      "source": "README — Setup, Configuration and Deployment",
+      "target": "Instagram, WhatsApp and Email Support",
+      "source_files": [
+        "README.md",
+        "script.js"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "crosses file types (doc ↔ code); peripheral node `Instagram, WhatsApp and Email Support` unexpectedly reaches hub `README — Setup, Configuration and Deployment`"
+    },
+    {
+      "source": "NEET Masterbook Sales Page (index.html)",
+      "target": "Sales Page Application Logic (script.js)",
+      "source_files": [
+        "index.html",
+        "script.js"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "crosses file types (doc ↔ code); peripheral node `Sales Page Application Logic (script.js)` unexpectedly reaches hub `NEET Masterbook Sales Page (index.html)`"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `NEET Masterbook Sales Page (index.html)` connect `Gallery Assets` to `Production Assets`, `Editorial Assets`?",
+      "why": "High betweenness centrality (0.433) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 28 inferred relationships involving `See the System Gallery` (e.g. with `assets/gallery/banner-01-complete-system-1600.webp` and `assets/gallery/banner-01-complete-system-960.webp`) actually correct?",
+      "why": "`See the System Gallery` has 28 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `Graphify Agent Instructions`, `Sales Page Application Logic (script.js)`, `Act 1 — Know the Game` to the rest of the system?",
+      "why": "16 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Gallery Assets` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.13363363363363365 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Mobile-First Motion System` connect `Application Logic 2` to `Production Assets`, `Project Documentation`?",
+      "why": "High betweenness centrality (0.330) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Application Logic` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.10873440285204991 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Visual System and Responsive Motion (styles.css)` connect `Production Assets` to `Gallery Assets`, `Application Logic 2`?",
+      "why": "High betweenness centrality (0.314) - this node is a cross-community bridge."
+    }
+  ]
+}
