@@ -1,0 +1,21 @@
+# Deployment / repository internals
+.git
+.gitignore
+.assetsignore
+.wrangler
+node_modules
+.opencode
+graphify-out
+
+# Local source material and the paid product
+product pdf
+product image
+gallery images
+required images
+
+# Repository documentation and build prompts
+*.md
+
+# Wrangler config and Pages-only files
+wrangler.toml
+_headers
